@@ -1,4 +1,6 @@
-package org.example;
+package org.example.calculate_tdd;
+
+import org.example.password.PasswordGenerator;
 
 public class CorrectFixedPasswordGenerator implements PasswordGenerator {
 

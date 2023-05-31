@@ -1,6 +1,7 @@
-package org.example;
+package org.example.calculate_tdd;
 
 import org.example.calculate.*;
+import org.example.calculate_tdd.calculate.*;
 
 import java.util.List;
 

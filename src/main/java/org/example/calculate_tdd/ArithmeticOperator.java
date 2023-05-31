@@ -1,4 +1,4 @@
-package org.example;
+package org.example.calculate_tdd;
 
 import java.util.Arrays;
 
