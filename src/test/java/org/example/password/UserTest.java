@@ -1,6 +1,6 @@
 package org.example.password;
 
-import org.example.calculate_tdd.CorrectFixedPasswordGenerator;
+import org.example.calculate.CorrectFixedPasswordGenerator;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

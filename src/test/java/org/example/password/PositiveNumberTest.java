@@ -1,6 +1,6 @@
 package org.example.password;
 
-import org.example.calculate_tdd.calculate.PositiveNumber;
+import org.example.calculate.calculate.PositiveNumber;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThatCode;
